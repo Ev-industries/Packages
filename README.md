@@ -1,4 +1,4 @@
-# Packages
+<center> <h1>Packages </h1> </center>
 Packages installer based on shell for linux
 
 
@@ -26,7 +26,6 @@ chmod +x [lua|python|php].sh
 //or
 ./php.sh php[5|7]
 ```
-#DEVELOPERS
-@Electrovirus
-
-@Makerman
+#Creators
+[Electrovirus](t.me/ev_is_dead)
+[MaKeRMaN](t.me/MaKeRMaN)
